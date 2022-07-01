@@ -20,7 +20,7 @@ export function Video() {
             <div className="flex items-center gap-4 mt-6">
               <img
                 className="h-16 w-16 rounded-full border-2 border-blue-500"
-                src="https://github.com/diego3g.png "
+                src="https://github.com/renanvzd.png "
                 alt=""
               />
               <div className="leading-relaxed">
