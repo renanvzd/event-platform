@@ -17,7 +17,6 @@ query GetLessonBySlug ($slug: String) {
     }
   }
 }
-+
 `
 interface GetLessonBySlugResponse {
   lesson: {
